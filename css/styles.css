@@ -1,0 +1,61 @@
+/**************************************BODY******************************************/
+body{
+  font-family: sans-serif;
+  line-height: 2;
+  }
+/********************************headings***************************************/
+h1{
+  text-align: center;
+  padding-bottom: 3%;
+  font-size: 300%;
+}
+
+h2{
+  text-align: center;
+  font-size: 200%;
+  }
+
+h3{
+  text-align:left;
+  margin-left: 30%;
+  color:#af8baf ;
+  }
+/*******************************************IMAGE***********************************/
+img{
+  float: left;
+  padding-left: 9%;
+  padding-right: 9%;
+  width: 30%;
+  }
+/************************************PARAGRAPH**********************************************/
+p{
+  text-align:center;
+  margin: auto 20%;
+}
+
+
+/*************************************LOGO*********************************/
+.owl{
+  width:10%;
+  border-radius: 90%;
+  position: relative;
+  left: 80%;
+  position: fixed;
+}
+
+/************************************INTRODUCTION*************************************/
+.img-1{
+width: 30%;
+float: right;
+padding-left: 5%;
+}
+.intro-para{
+  margin-left: 15%;
+  margin-right:20%;
+}
+.pros{
+  color: green;
+}
+.cons{
+  color:red;
+}
